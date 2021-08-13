@@ -1,0 +1,4 @@
+﻿Versión: 1.0
+Fecha: 13-08-2021
+Concepto: Creación del proyecto.
+Descripción: Primeras lecturas de archivos y carpetas.
